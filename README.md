@@ -4,7 +4,7 @@ v1.0
 
 本课程面向初学者，内容涵盖以太坊去中心化应用开发相关的诸多概念，如区块链、ganache仿真器、Solidity语言、solc编译器、web3js库、通证（代币）发行等，并将手把手地教大家如何构建一个基于以太坊的完整去中心化应用 —— 区块链投票系统。
 
-[http://xc.hubwiz.com/course/5a952991adb3847553d205d](http://xc.hubwiz.com/course/5a952991adb3847553d205d1?affid=github20180308)
+[http://xc.hubwiz.com/course/5a952991adb3847553d205d1](http://xc.hubwiz.com/course/5a952991adb3847553d205d1?affid=github20180308)
 
 * 一、初识以太坊
 
